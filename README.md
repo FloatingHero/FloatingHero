@@ -4,6 +4,7 @@
 ⚡ PHP
 ⚡ Laravel
 ⚡ NodeJS
+⚡ SQL
 
 ## But I also like work with: 
 ⚡ VueJS
@@ -11,6 +12,7 @@
 
 ## Currently I'm learning:
 🌱 API REST development
+🌱 Typescript
 
 
 

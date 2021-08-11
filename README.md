@@ -1,15 +1,19 @@
 ### Hi there 👋 I'm [FloatingHero][website] and I will be pleased to work with you.
 
-Here are some ideas to get you started:
+## I prefer backend development like:
+⚡ PHP
+⚡ Laravel
+⚡ NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## But I also like work with: 
+⚡ VueJS
+⚡ Bootstrap
+
+## Currently I'm learning:
+🌱 API REST development
+
+
+
 
 <!-- LINKS -->
 [website]: https://github.com/FloatingHero

@@ -17,7 +17,7 @@
 🌱 API REST development
 
 ## About me:
-I'm from Canary Islands, Spain. I studied Web Development in 2018 and I have worked in Atlantic Systems for 3 months. I love the backend development and I'm learning Express currently, using Typescript in these projects.
+I'm from Canary Islands, Spain. I studied Web Development in 2018 and I have worked in Atlantic Systems for 3 months and working in Hidramar as Laravel & Vue developer. I love the backend development and I'm learning Express currently, using Typescript in these projects.
 
 
 

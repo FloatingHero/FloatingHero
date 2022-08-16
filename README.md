@@ -31,4 +31,3 @@ I've been coding for three years. I fell in love with backend development, I lov
 
 <p align="left"> <a href="https://www.github.com/FloatingHero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
-### Badges

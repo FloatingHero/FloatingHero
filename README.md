@@ -7,7 +7,7 @@ FullStack Developer
 I've been coding for three years. I fell in love with backend development, I love Laravel, Node, Express... I like frontend too! Vuejs is my favourite JavaScript framework 😎
 
 * 🌍  I'm based in Canary Islands, Spain
-* 🧠  I'm learning NestJS
+* 🧠  I'm learning React
 
 ### Skills
 
